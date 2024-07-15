@@ -1,3 +1,3 @@
-We are predicting energy demand for various US cities using weather variables such as temperature, wind speed, pressure, and dew point combined with socioeconomic factors. 
+We are predicting energy demand for major cities in the United States using weather variables (temperature, wind speed, pressure, and dew point) and socioeconomic factors. 
 
-Energy demand and output data was obtained through the EIA (US Energy Information Association). 
+Energy demand data was obtained from the US Energy Information Association (EIA). Weather data was obtained from Meteosat.
