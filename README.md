@@ -1,5 +1,14 @@
-We are predicting energy demand for major cities in the United States using weather variables (temperature, wind speed, pressure, relative humidity, dew point) and socioeconomic factors. 
+**Predicting Energy Demand for Major U.S. Cities**
+-
+This project leverages advanced machine learning models to predict hourly energy demand for major cities in the United States. By integrating weather variables (temperature, wind speed, pressure, relative humidity, dew point) with socioeconomic factors, we aim to provide accurate, data-driven insights into energy consumption trends.
 
-We use a variety of models such as an LSTM, GRU, and Prophet. 
+Models: Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), and Prophet
 
-Hourly energy demand data was obtained from the US Energy Information Association (EIA) from 2016 or 2018 to 2024. Hourly weather records was obtained using the Meteostat API.
+
+**Team**
+-
+- **Rushil Kukreja**, Thomas Jefferson High School for Science and Technology
+- **Abhiraj Tiwari**, Thomas Jefferson High School for Science and Technology
+- **Sanjeev Subramanian**, Thomas Jefferson High School for Science and Technology
+- **Anush Devkar**, Thomas Jefferson High School for Science and Technology
+- **Prof. Ron Mahabir**, University of Liverpool & George Mason University
