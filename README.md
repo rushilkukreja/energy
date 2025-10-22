@@ -12,3 +12,5 @@ Models: Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), and Prophet
 - **Sanjeev Subramanian**, Thomas Jefferson High School for Science and Technology
 - **Anush Devkar**, Thomas Jefferson High School for Science and Technology
 - **Prof. Ron Mahabir**, University of Liverpool & George Mason University
+- **Prof. Olga Gkountouna**, University of Liverpool & George Mason University
+- **Prof. Arie Croitoru**, George Mason University
